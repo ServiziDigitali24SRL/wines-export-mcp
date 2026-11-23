@@ -1,0 +1,12 @@
+{
+  "identifier": "wines-export-ufficio-export",
+  "name": "Wines Export – Ufficio Export",
+  "version": "0.5.0",
+  "description": "The export office of Wines Export inside your AI chat: buyers of Italian wine by country, wine export documents and requirements, shipments.",
+  "author": "Wines Export",
+  "authorUrl": "https://www.wines-export.com",
+  "homepage": "https://www.wines-export.com",
+  "cloudEndpoint": "https://mcp.wines-export.com/mcp",
+  "category": "productivity",
+  "tags": ["wine", "italian-wine", "wine-export", "wineries", "importers"]
+}
